@@ -1,9 +1,9 @@
 # Stacja Celebracja
 
-Wypożyczamy gadżety na przyjęcia
-❋ FotoVogue, DrinkPiano & Budka Pełna Życzeń
-⚑ Cieszyn, Śląsk, Polska
-↓ Napisz i zarezerwuj
+Wypożyczamy gadżety na przyjęcia <br>
+❋ FotoVogue, DrinkPiano & Budka Pełna Życzeń <br>
+⚑ Cieszyn, Śląsk, Polska <br>
+↓ Napisz i zarezerwuj <br>
 
 Oferta:
 
