@@ -1,16 +1,16 @@
-## Hi there 👋
+# Stacja Celebracja
 
-<!--
-**StacjaCelebracja/stacjacelebracja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wypożyczamy gadżety na przyjęcia
+❋ FotoVogue, DrinkPiano & Budka Pełna Życzeń
+⚑ Cieszyn, Śląsk, Polska
+↓ Napisz i zarezerwuj
 
-Here are some ideas to get you started:
+Oferta:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Budka Pełna Życzeń
+- Drink Piano
+- FotoVouge
+- Budka Telefoniczna Mini
+- E-Book Wedding Planner
+
+Po szczegóły zajrzyj na [Stacja Celebracja](https://stacjacelebracja.github.io/).
